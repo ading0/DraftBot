@@ -24,5 +24,7 @@ Once drafting begins, the bot will issue further instructions via direct message
 - Once drafting finishes, the results are publically announced in whatever channel `commence` was sent in.
 
 #### Limitations
+
 No GUI for now :(
+
 The only drafting algorithm possible is fairly arbitrary, but due to symmetry it is definitely "fair." It might, however, be unpleasant.
