@@ -1,5 +1,5 @@
 ## DraftBot
-Discord bot for drafting players, auction-style, in 2 teams.
+Discord bot for drafting players, auction-style, in 2 teams. Originally developed for a particular game that pits 5 players against another team of 5 players.
 
 
 #### Usage
